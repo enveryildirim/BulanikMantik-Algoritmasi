@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\Bulanık\Bulanık\bin\Debug\Bulanık.exe.config
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\Bulanık\Bulanık\obj\Debug\Bulanık.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\Bulanık\Bulanık\obj\Debug\Bulanık.Properties.Resources.resources
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\Bulanık\Bulanık\obj\Debug\Bulanık.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\Bulanık\Bulanık\bin\Debug\Bulanık.exe
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\Bulanık\Bulanık\bin\Debug\Bulanık.pdb
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\Bulanık\Bulanık\obj\Debug\Bulanık.exe
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\Bulanık\Bulanık\obj\Debug\Bulanık.pdb
+C:\Users\PC\Documents\YandexDiskYedek\YandexDisk\AR-GE\Bulanık\Bulanık\obj\Debug\Bulanık.Form1.resources
